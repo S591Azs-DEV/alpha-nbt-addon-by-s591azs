@@ -1,0 +1,28 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "NBT MOD",
+        "description": "Nbt mod version alpha",
+        "uuid": "aa769c74-6ddb-4a5d-9b5e-f7ec14812720",
+        "version": [1, 0, 1],
+        "min_engine_version": [1, 21, 100]
+    },
+    "modules": [
+        {
+            "type": "script",
+            "language": "javascript",
+            "uuid": "a2f87bd3-be9b-4293-8053-919cdb9c031a",
+            "version": [1, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.13.0"
+        },
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "1.3.0"
+        }
+    ]
+}
