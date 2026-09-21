@@ -1,7 +1,7 @@
 
 
 <a href="https://github.com/S591Azs-DEV/alpha-nbt-addon-by-s591azs/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/S591Azs-DEV/tagfetch?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/S591Azs-DEV/alpha-nbt-addon-by-s591azs?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41">
   </a>
   <a href="https://github.com/S591Azs-DEV/alpha-nbt-addon-by-s591azs/releases/latest">
     <img alt="Releases" src="https://img.shields.io/github/release/S591Azs-DEV/alpha-nbt-addon-by-s591azs.svg?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41">
