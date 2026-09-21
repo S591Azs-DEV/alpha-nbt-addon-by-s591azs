@@ -7,7 +7,7 @@ This addon is in alpha version. This is an nbt addon. To get several nbt items, 
 
 
 
-# ### More information
+# More information
 
 NBT Addon is an NBT addon for Minecraft Bedrock Edition, currently in alpha version.
 
@@ -39,4 +39,8 @@ Project contents:
 
 · manifest.json — addon manifest
 
-· medrop.mcstructure — structure file<img width="2838" height="3784" alt="1000900955" src="https://github.com/user-attachments/assets/a7cb8a8d-3efa-40e1-8276-4caddd8fc3bd" />
+· medrop.mcstructure — structure
+
+https://github.com/user-attachments/assets/ac476958-5d64-424f-a3cb-ddd3841af5b6
+
+
