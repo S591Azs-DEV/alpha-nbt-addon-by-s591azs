@@ -43,7 +43,10 @@ Project contents:
 
 
 
-[![Просмотры](https://seeyoufarm.com)](https://seeyoufarm.com)
-[![Stars](https://shields.io)](https://github.com)
-[![Forks](https://shields.io)](https://github.com)
+
+
+https://github.com/user-attachments/assets/f438b724-bede-42f1-aba7-042a5e3cbc31
+
+
+
 
