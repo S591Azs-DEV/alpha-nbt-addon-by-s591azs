@@ -41,6 +41,9 @@ Project contents:
 
 · medrop.mcstructure — structure
 
-https://github.com/user-attachments/assets/ac476958-5d64-424f-a3cb-ddd3841af5b6
 
+
+[![Просмотры](https://seeyoufarm.com)](https://seeyoufarm.com)
+[![Stars](https://shields.io)](https://github.com)
+[![Forks](https://shields.io)](https://github.com)
 
