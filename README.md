@@ -17,10 +17,10 @@
 
 
 # English
-This addon is in alpha version. This is an nbt addon. To get several nbt items, you need to enter /function ArmorAndItems
+This is an nbt addon. To get several nbt items, you need to enter /function ArmorAndItems
 # Русский
-Это аддон находится в альфа версии. Это nbt аддон. Чтобы получить несколько nbt предметов надо ввести /function ArmorAndItems
-
+Это nbt аддон. Чтобы получить несколько nbt предметов надо ввести /function ArmorAndItems
+ещё..
 
 
 
@@ -43,7 +43,7 @@ To get several NBT items, enter the following command:
 
 Project status:
 
- This is an alpha version. Features may be incomplete or subject to change.
+Features may be incomplete or subject to change.
 
  
 
